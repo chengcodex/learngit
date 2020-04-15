@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 1234master new
 merge
 dev branch test
+append test
